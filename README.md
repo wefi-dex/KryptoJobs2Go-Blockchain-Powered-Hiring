@@ -34,7 +34,7 @@ Streamlined User Interface: Built with Streamlit, the application provides an in
 
 ### Files
 
-- `fintech_finder.py`: Contains the main application code, integrated with Streamlit.
+- `krypto_jobs.py`: Contains the main application code, integrated with Streamlit.
 - `crypto_wallet.py`: A module with functions for Ethereum transactions.
 - `.env`: Contains the mnemonic seed phrase for the Ethereum wallet.
 

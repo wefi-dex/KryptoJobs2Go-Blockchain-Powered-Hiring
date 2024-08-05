@@ -6,10 +6,6 @@
 
 ### Features
 
-Find and Hire Professionals: Users can browse a list of fintech candidates and hire them for specific tasks.
-Instant Payments: Integrated with the Ethereum blockchain, the app facilitates immediate cryptocurrency payments.
-Streamlined User Interface: Built with Streamlit, the application provides an intuitive and seamless user experience.
-
 - **Find and Hire Professionals**: Users can browse a list of fintech candidates and hire them for specific tasks.
 - **Instant Payments**: Integrated with the Ethereum blockchain, the app facilitates immediate cryptocurrency payments.
 - **Streamlined User Interface**: Built with Streamlit, the application provides an intuitive and seamless user experience.
